@@ -1,0 +1,16 @@
+C:\Users\natalie.wilkins\source\repos\TrafficTracker\TrafficTracker\bin\Debug\net8.0-windows\TrafficTracker.exe
+C:\Users\natalie.wilkins\source\repos\TrafficTracker\TrafficTracker\bin\Debug\net8.0-windows\TrafficTracker.deps.json
+C:\Users\natalie.wilkins\source\repos\TrafficTracker\TrafficTracker\bin\Debug\net8.0-windows\TrafficTracker.runtimeconfig.json
+C:\Users\natalie.wilkins\source\repos\TrafficTracker\TrafficTracker\bin\Debug\net8.0-windows\TrafficTracker.dll
+C:\Users\natalie.wilkins\source\repos\TrafficTracker\TrafficTracker\bin\Debug\net8.0-windows\TrafficTracker.pdb
+C:\Users\natalie.wilkins\source\repos\TrafficTracker\TrafficTracker\obj\Debug\net8.0-windows\TrafficTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natalie.wilkins\source\repos\TrafficTracker\TrafficTracker\obj\Debug\net8.0-windows\TrafficTracker.AssemblyInfoInputs.cache
+C:\Users\natalie.wilkins\source\repos\TrafficTracker\TrafficTracker\obj\Debug\net8.0-windows\TrafficTracker.AssemblyInfo.cs
+C:\Users\natalie.wilkins\source\repos\TrafficTracker\TrafficTracker\obj\Debug\net8.0-windows\TrafficTracker.csproj.CoreCompileInputs.cache
+C:\Users\natalie.wilkins\source\repos\TrafficTracker\TrafficTracker\obj\Debug\net8.0-windows\TrafficTracker.dll
+C:\Users\natalie.wilkins\source\repos\TrafficTracker\TrafficTracker\obj\Debug\net8.0-windows\refint\TrafficTracker.dll
+C:\Users\natalie.wilkins\source\repos\TrafficTracker\TrafficTracker\obj\Debug\net8.0-windows\TrafficTracker.pdb
+C:\Users\natalie.wilkins\source\repos\TrafficTracker\TrafficTracker\obj\Debug\net8.0-windows\TrafficTracker.genruntimeconfig.cache
+C:\Users\natalie.wilkins\source\repos\TrafficTracker\TrafficTracker\obj\Debug\net8.0-windows\ref\TrafficTracker.dll
+C:\Users\natalie.wilkins\source\repos\TrafficTracker\TrafficTracker\obj\Debug\net8.0-windows\TrafficTracker.Form1.resources
+C:\Users\natalie.wilkins\source\repos\TrafficTracker\TrafficTracker\obj\Debug\net8.0-windows\TrafficTracker.csproj.GenerateResource.cache
